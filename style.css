@@ -1,19 +1,18 @@
 *{
-   margin: 0;
-   padding: 24px 0;
-   font-size: 24px;
-   justify-content: space-around;
+    margin: 0;
+    padding: 24px 0;
+    font-size: 24px;
+    justify-content: space-around;
 }
 
 header {
-    background-color: #374bbe;
+    background-color: azure;
     color: white;
-    }
+}
 
 .imagem {
     width: 10%;
- }
-
+}
 .cabecalho {
     background-color: #383d58;
     color: white;
